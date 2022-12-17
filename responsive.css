@@ -1,0 +1,198 @@
+
+
+@media (min-width: 1000px) and (max-width: 1320px) {
+	.seccion1 img{
+		width: 317px;
+		height: 368px;
+		
+	}
+	
+}
+
+
+
+@media (min-width: 600px) and (max-width: 992px) {
+	/* estilos seccion 1 */
+	.contenedor1{
+		width: 100%;
+		height: 100vh;
+		background-image: url(img/raqueta3.png);
+	
+	}
+	.banner_texto{
+	
+		width: 80%;
+		padding-left: 70px;
+	}
+	
+	.banner_texto h1{
+		width: 80%;
+		font-size: 33px;
+		color: white;
+		line-height: 68px;
+	}
+
+		
+	.banner_texto a{
+		padding: 20px 0;
+		width: 65%;
+		font-size: 10px;
+	}
+	
+	.seccion1 img{
+		width: 217px;
+		height: 368px;
+		
+	}
+	.logo2 {
+		
+		padding-right: 100px;
+		
+	}
+	
+}
+
+@media (min-width: 481px) and (max-width: 597px) {
+	/* estilos seccion 1 */
+	.contenedor1{
+		width: 100%;
+		height: 100vh;
+		background-image: url(img/raqueta2.png);
+	
+	}
+	
+	.logo{
+		width: 10%;
+		padding-left: 10px;
+		margin-top: -50px;
+		display: flex;
+		justify-content: start;
+		align-items: center;
+	}
+	.link{
+		
+		padding: 70px 10px;
+		
+	}
+
+	.banner_texto{
+	
+		width: 80%;
+		padding-left: 70px;
+	}
+	
+	.banner_texto h1{
+		width: 80%;
+		font-size: 33px;
+		color: white;
+		line-height: 68px;
+	}
+
+		
+	.banner_texto a{
+		padding: 20px 0;
+		width: 65%;
+		font-size: 10px;
+	}
+
+	.seccion1 img{
+		width: 600px;
+		height: 368px;
+		
+	}
+	.raqueta img{
+		width: 80%;
+		margin-left: -200px;
+	}
+	.logo2 {
+		
+		padding-right: 100px;
+		
+	}
+}
+
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+	/* estilos seccion 1 */
+	.contenedor1{
+		width: 100%;
+		height: 100vh;
+		background-image: url(img/raqueta2.png);
+	
+	}
+	
+	.logo{
+		width: 10%;
+		padding-left: 20px;
+		margin-top: -50px;
+		display: flex;
+		justify-content: start;
+		align-items: center;
+	}
+	.link{
+		
+		padding: 70px 10px;
+		
+	}
+
+	.banner_texto{
+	
+		width: 80%;
+		padding-left: 70px;
+	}
+	
+	.banner_texto h1{
+		width: 80%;
+		font-size: 33px;
+		color: white;
+		line-height: 68px;
+	}
+
+		
+	.banner_texto a{
+		padding: 20px 0;
+		width: 65%;
+		font-size: 10px;
+	}
+
+	
+.titulo h2{
+	font-size: 20px;
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	}
+			
+	.parrafo p{
+	padding-right: 10px;
+	padding-top: 5%;
+	
+	}
+	
+	.parrafo a{
+		
+		padding: 20px 0;
+		width: 45%;
+		margin-top: 30px;
+		margin-right: 90px;
+	   
+	}
+
+	.raqueta img{
+		width: 80%;
+		margin-left: -100px;
+	}
+
+	
+	.link2{
+		
+		font-size: 10px;
+		
+	}
+	.logo2 {
+		
+		padding-right: 200px;
+		
+	}
+	
+}
+
